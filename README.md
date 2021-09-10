@@ -7,4 +7,5 @@
 ## Paper
 
 * Auto4D: Learning to Label 4D Objects from Sequential Point Clouds \[[pdf](https://arxiv.org/pdf/2101.06586.pdf)\]
+* Offboard 3D Object Detection from Point Cloud Sequences \[[pdf](https://arxiv.org/pdf/2103.05073.pdf)\]
 
