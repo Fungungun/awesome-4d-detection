@@ -6,5 +6,5 @@
 
 ## Paper
 
-* Auto4D: Learning to Label 4D Objects from Sequential Point Clouds [pdf](https://arxiv.org/pdf/2101.06586.pdf)
+* Auto4D: Learning to Label 4D Objects from Sequential Point Clouds \[[pdf](https://arxiv.org/pdf/2101.06586.pdf)\]
 
